@@ -4,8 +4,8 @@
 // @namespace       2df9d1c998bc7e6b33e6e00a19977c4e080ec10d4db8a4f4e09d6076b2e6c864s
 // @source          https://github.com/madkarmaa/automatic-chatgpt-dan
 // @supportURL      https://github.com/madkarmaa/automatic-chatgpt-dan
-// @updateURL       https://github.com/RIllEX0/ChatGPT_Bypass_Limit/raw/master/chatgpt_dan_ru.js
-// @downloadURL     https://github.com/RIllEX0/ChatGPT_Bypass_Limit/raw/master/chatgpt_dan_ru.js
+// @updateURL       https://github.com/RIllEX0/ChatGPT_Bypass_Limit/main/chatgpt_dan_ru.js
+// @downloadURL     https://github.com/RIllEX0/ChatGPT_Bypass_Limit/main/chatgpt_dan_ru.js
 // @version         3.6.2
 // @description     Remove filters and limitations from ChatGPT
 // @author          x
