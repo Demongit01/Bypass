@@ -6,6 +6,7 @@
 ## JailBreak | Mode prompts for ChatGPT 
 
 I took @madkarmaa tampermonkey extension (made it little bit for my project)
+
 Extension (For tampermonkey, greasymonkey, and other): [Click Here](https://bit.ly/chatgpt-dan-en)
 
 Some of these prompts cannot work as well (Just regenerate answer or create new chat)
