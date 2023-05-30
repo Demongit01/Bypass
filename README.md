@@ -1,4 +1,5 @@
 # Prompts for ChatGPT
+Theres also [RU] version: (Русская версия)[https://github.com/RIllEX0/ChatGPT_DAN_Custom/blob/main/README_RU.md]
 ---
 
 - <https://chat.openai.com/>
