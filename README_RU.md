@@ -1,4 +1,5 @@
 # Запросы для ChatGPT
+### Здесь также имеется **Английская** версия: [Английская версия](https://github.com/RIllEX0/ChatGPT_DAN_Custom/blob/main/README.md)
 ---
 
 - <https://chat.openai.com/>
