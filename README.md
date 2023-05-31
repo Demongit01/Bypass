@@ -17,7 +17,9 @@ Script (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Click Here__](https
 
 ## ⚠️ Info
 >Some of these prompts cannot work as well (Just regenerate answer or create new chat)
+>
 >Prompts like MultiBot | SSN | Dan - was made by me
+>
 >Other prompts was remaded (shorter and rewrote) by me
 
 __My discord: LeX#1000__
