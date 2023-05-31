@@ -12,7 +12,7 @@
 
 Спасибо <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> за скрипт для моих запросов.
 
-Скрипт (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Нажми сюда__](https://bit.ly/chatgpt-dan-ru)
+Скрипт (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Нажми сюда__](https://goo.by/chatgpt-dan-ru)
 
 ![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
