@@ -1,4 +1,4 @@
-# 📝 Запросы для ChatGPT
+# 📌 Обход правил OpenAI для ChatGPT
 
 Здесь также имеется **Английская** версия: [English version](https://github.com/RIllEX0/ChatGPT_DAN_Custom/blob/main/README.md)
 
