@@ -1,4 +1,4 @@
-# 📝 Prompts for ChatGPT
+# 📌 Bypass OpenAI rules for ChatGPT
 
 Theres also **Russian** version: [Русская версия](https://github.com/RIllEX0/ChatGPT_DAN_Custom/blob/main/README_RU.md)
 
