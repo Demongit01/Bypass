@@ -11,7 +11,7 @@ Theres also **Russian** version: [Русская версия](https://github.co
 ## 💻 Script | Automatic Method
 Thanks <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> for script (made it little bit for my project)
 
-Script (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Click Here__](https://bit.ly/chatgpt-dan-en)
+Script (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Click Here__](https://goo.by/chatgpt-dan-en)
 
 ![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
