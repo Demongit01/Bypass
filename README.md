@@ -1,20 +1,30 @@
-# Prompts for ChatGPT
-### Theres also **Russian** version: [Русская версия](https://github.com/RIllEX0/ChatGPT_DAN_Custom/blob/main/README_RU.md)
+# 📝 Prompts for ChatGPT
+
+Theres also **Russian** version: [Русская версия](https://github.com/RIllEX0/ChatGPT_DAN_Custom/blob/main/README_RU.md)
+
 ---
 
 - <https://chat.openai.com/>
-## JailBreak | Mode prompts for ChatGPT 
 
-I took @madkarmaa tampermonkey script (made it little bit for my project)
+![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
-Script (For tampermonkey, greasymonkey, and other): [Click Here](https://bit.ly/chatgpt-dan-en)
+## 💻 Script | Automatic Method
+Thanks <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> for script (made it little bit for my project)
 
-Some of these prompts cannot work as well (Just regenerate answer or create new chat)
-Prompts like MultiBot | SSN | Dan - was made by me
-Other prompts was remaded (shorter and rewrote) by me
+Script (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Click Here__](https://bit.ly/chatgpt-dan-en)
 
-My discord: LeX#1000
+![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
+## ⚠️ Info
+>Some of these prompts cannot work as well (Just regenerate answer or create new chat)
+>Prompts like MultiBot | SSN | Dan - was made by me
+>Other prompts was remaded (shorter and rewrote) by me
+
+__My discord: LeX#1000__
+
+![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
+
+## 📄 Prompts | Manual method
 <ul>
 <details>
   <summary>MultiBot with modes</summary>
