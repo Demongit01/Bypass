@@ -10,9 +10,10 @@
 
 ## 💻 Скрипт | Автоматический способ
 
-Спасибо <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> за скрипт для моих запросов.
+Спасибо <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> за добавление (коллаборацию) моих запросов в его скрипт.
 
-Скрипт (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Нажми сюда__](https://goo.by/chatgpt-dan-ru)
+С данного момента, прямо сейчас, вы теперь можете пользоваться моими запросами в удобном скрипте с удобным управлением, автора:<a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a>
+Вы можете скачать оффициальный скрипт от <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> с моими запросами, и без копий, в его репозитории: <a href="https://github.com/madkarmaa/automatic-chatgpt-dan" target="_blank"><b>ChatGPT DAN Репозиторий</b></a>
 
 ![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
