@@ -11,6 +11,8 @@ Theres also **Russian** version: [Русская версия](https://github.co
 ## 💻 Script | Automatic Method
 Thanks <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> for adding my prompts in his script officially.
 
+In his new version 4.0.0 many new features have been added, in one of his changes: he added community prompts in which i have been added, now you can ask him in issues to add your own prompts, i was one of the first, who sended request for adding my prompts before anyone else. I wish you have more ideas for prompts. 
+
 Now, from this time, <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> added my prompts in his script, you dont need to download his duplicate at my page. You can download official, not duplicated script here: <a href="https://github.com/madkarmaa/automatic-chatgpt-dan" target="_blank"><b>ChatGPT DAN Repository</b></a>
 
 ![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
@@ -21,6 +23,9 @@ Now, from this time, <a href="https://github.com/madkarmaa" target="_blank"><b>@
 >Prompts like MultiBot | SSN | Dan - was made by me
 >
 >Other prompts was remaded (shorter and rewrote) by me
+
+If you have any ideas or would like to add more prompts in my repository, you're free to ask in Issues. If you submit an idea with a prompt, by creating an issue, you have to write in the title:  <Prompt name> 
+And inside of issue, you need to write what does it do, which mode does it has, his behavior and other, and then i implement this idea into a prompt, and sign this request that you sended request for it. 
 
 __My discord: LeX#1000__
 
