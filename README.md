@@ -9,9 +9,9 @@ Theres also **Russian** version: [Русская версия](https://github.co
 ![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
 ## 💻 Script | Automatic Method
-Thanks <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> for script (made it little bit for my project)
+Thanks <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> for adding my prompts in his script officially.
 
-Script (__TamperMonkey | GreasyMonkey | ViolentMonkey__): [__Click Here__](https://goo.by/chatgpt-dan-en)
+Now, from this time, <a href="https://github.com/madkarmaa" target="_blank"><b>@madkarmaa</b></a> added my prompts in his script, you dont need to download his duplicate in my page. You can download official, not duplicated script here: <a href="https://github.com/madkarmaa/ChatGPT_Dan" target="_blank"><b>ChatGPT DAN Repository</b></a>
 
 ![separator](https://media.tenor.com/IeUI_IcNToMAAAAC/line-border.gif)
 
